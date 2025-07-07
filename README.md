@@ -1,3 +1,11 @@
+# Rustlings Solutions
+
+This repository contains my completed solutions to the [Rustlings](https://github.com/rust-lang/rustlings) exercises — a series of small coding tasks designed to teach the Rust programming language through practice.
+
+Each exercise has been solved and compiled successfully. This repo serves as a personal reference and may help others learning Rust.
+
+To get started with Rustlings yourself, check out the [official repository](https://github.com/rust-lang/rustlings).
+
 # Exercise to Book Chapter mapping
 
 | Exercise               | Book Chapter        |
